@@ -1,3 +1,5 @@
+Note: Forked the archived repository to make it work again.
+
 smart-fan-control
 =================
 
