@@ -23,7 +23,7 @@ Use this totally at your own risk. This is practically untested and has been kno
 
 ### Requirements
 
-1. <code>smartctl</code> from the [smartmontools](http://sourceforge.net/apps/trac/smartmontools/) package. I use [macports](http://www.macports.org/):
+1. <code>smartctl</code> from the [smartmontools](http://sourceforge.net/apps/trac/smartmontools/) package:
     
         $ brew install smartmontools
 
